@@ -1,0 +1,187 @@
+Last login: Wed Jun  4 09:46:18 on console
+jascarbenish@Jascars-MacBook-Air ~ % cd /Users/jascarbenish/Documents/Neural Nest Solutions
+cd: too many arguments
+jascarbenish@Jascars-MacBook-Air ~ % cd /Users/jascarbenish/Documents/Neural Nest Solutions
+cd: too many arguments
+jascarbenish@Jascars-MacBook-Air ~ % cd /Users/jascarbenish/Documents/Neural Nest Solutions/
+cd: too many arguments
+jascarbenish@Jascars-MacBook-Air ~ % cd /Users/jascarbenish/Documents/Neural Nest Solutions/Training
+cd: too many arguments
+jascarbenish@Jascars-MacBook-Air ~ % cd /Users/jascarbenish/Documents/Neural_nest_solutions      
+jascarbenish@Jascars-MacBook-Air Neural_nest_solutions % /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/react JS
+zsh: no such file or directory: /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/react
+jascarbenish@Jascars-MacBook-Air Neural_nest_solutions % /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/React JS
+zsh: no such file or directory: /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/React
+jascarbenish@Jascars-MacBook-Air Neural_nest_solutions % /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/Reactjs
+zsh: permission denied: /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/Reactjs
+jascarbenish@Jascars-MacBook-Air Neural_nest_solutions % /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Project                        
+\zsh: no such file or directory: /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Project
+jascarbenish@Jascars-MacBook-Air Neural_nest_solutions % cd /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/Reactjs
+
+jascarbenish@Jascars-MacBook-Air Reactjs % cd /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/Reactjs/Jsinstallation               
+
+jascarbenish@Jascars-MacBook-Air Jsinstallation % npm create vite@latest my-react-app --template react 
+Need to install the following packages:
+  create-vite@6.5.0
+Ok to proceed? (y) y
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  JavaScript
+│
+◇  Scaffolding project in /Users/jascarbenish/Documents/Neural_nest_solutions/Training/Projects/Reactjs/Jsinstallation/my-react-app...
+│
+└  Done. Now run:
+
+  cd my-react-app
+  npm install
+  npm run dev
+
+jascarbenish@Jascars-MacBook-Air Jsinstallation % cd my-react-app
+jascarbenish@Jascars-MacBook-Air my-react-app % npm install
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/js@9.28.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint@9.28.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/config-array@0.20.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/config-helpers@0.2.2',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/core@0.14.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/eslintrc@3.3.1',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/plugin-kit@0.3.1',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@humanfs/node@0.16.6',
+npm WARN EBADENGINE   required: { node: '>=18.18.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@humanwhocodes/retry@0.4.3',
+npm WARN EBADENGINE   required: { node: '>=18.18' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint-scope@8.3.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint-visitor-keys@4.2.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'espree@10.3.0',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@eslint/object-schema@2.1.6',
+npm WARN EBADENGINE   required: { node: '^18.18.0 || ^20.9.0 || >=21.1.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@humanfs/core@0.19.1',
+npm WARN EBADENGINE   required: { node: '>=18.18.0' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: '@humanwhocodes/retry@0.3.1',
+npm WARN EBADENGINE   required: { node: '>=18.18' },
+npm WARN EBADENGINE   current: { node: 'v18.12.1', npm: '8.19.2' }
+npm WARN EBADENGINE }
+
+added 154 packages, and audited 155 packages in 11s
+
+33 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+jascarbenish@Jascars-MacBook-Air my-react-app % npm run dev
+
+> my-react-app@0.0.0 dev
+> vite
+
+
+  VITE v6.3.5  ready in 422 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+        
+        
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
